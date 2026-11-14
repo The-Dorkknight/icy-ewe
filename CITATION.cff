@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use or build on this work, please cite it as below."
+title: "Icy Ewe: 3D scanning on the cheap. A hobbyist's field guide and a defensive publication"
+type: report
+version: "1.1"
+date-released: "2026-11-13"
+license: CC-BY-SA-4.0
+url: "https://github.com/The-Dorkknight/icy-ewe"
+repository-code: "https://github.com/The-Dorkknight/scantastic"
+authors:
+  - family-names: Armstrong
+    given-names: Matthew
+    alias: The-Dorkknight
+abstract: >-
+  How Scantastic turns an Intel RealSense SR305 or D415 and a computer as slow as a 7th-gen Core i3 into a tabletop
+  3D scanner: picture features that check every alignment step, a drift-bounded loop-closure rule, a one-axis
+  turntable mode with an optional marker ring, live keyframe tracking, a crash-tolerant record-now-stitch-later mode
+  for slow PCs, speed profiles with order-preserving parallel alignment, an exact cropped polish, a gated graphics-card
+  path and a flat-wall sensor check. Includes the method in rebuildable detail, mistakes, results on made-up scans, a
+  test plan, and a defensive disclosure of the methods and variations, dedicated to the public. The methods have not
+  yet been run on a real camera.
+keywords:
+  - 3D scanning
+  - depth camera
+  - RealSense
+  - RGB-D
+  - ICP
+  - loop closure
+  - turntable
+  - defensive publication
+  - prior art

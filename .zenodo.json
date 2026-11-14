@@ -1,0 +1,11 @@
+{
+  "title": "Icy Ewe: 3D scanning on the cheap. A hobbyist's field guide and a defensive publication",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "How the Scantastic app turns an Intel RealSense SR305 or D415 and a computer as slow as a 7th-gen Core i3 into a tabletop 3D scanner: picture features that check every alignment step, a drift-bounded loop-closure rule, a one-axis turntable mode with an optional marker ring, live keyframe tracking, a crash-tolerant record-now-stitch-later mode for slow PCs, speed profiles with order-preserving parallel alignment, an exact cropped polish, a gated graphics-card path and a flat-wall sensor check. The paper gives the methods in rebuildable detail, the mistakes made on the way, results on made-up scans, a test plan, and in section 9 a defensive disclosure of the methods and their variations, which are dedicated to the public. The methods have not yet been run on a real camera.",
+  "creators": [{"name": "Armstrong, Matthew"}],
+  "license": "cc-by-sa-4.0",
+  "keywords": ["3D scanning", "depth camera", "RealSense", "RGB-D", "ICP", "loop closure", "turntable", "defensive publication", "prior art"],
+  "language": "eng",
+  "version": "1.1"
+}
