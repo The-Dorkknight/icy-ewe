@@ -685,3 +685,13 @@ I missed. Everyone who contributes gets credited in the next version.
 [PolyForm Noncommercial 1.0.0](LICENSE-CODE.md) (source-available, not open source); the methods in section 9 are
 dedicated to the public as a defensive publication. Not legal advice. Not affiliated with Intel, Prowise or anyone else
 named in the paper.
+
+## Research paper
+
+**[Icy Ewe: 3D scanning on the cheap. A hobbyist's field guide and a defensive publication](paper/paper.md)** (version 1.1, first published 13 November 2026) · [PDF](paper/icy-ewe-v1.1.pdf)
+
+>-
+
+The paper's text and figures: [CC BY-SA 4.0](paper/LICENSE.md)
+
+**How to cite:** Armstrong, M. (2026). *Icy Ewe: 3D scanning on the cheap. A hobbyist's field guide and a defensive publication.* Version 1.1, 13 November 2026. https://github.com/The-Dorkknight/icy-ewe
